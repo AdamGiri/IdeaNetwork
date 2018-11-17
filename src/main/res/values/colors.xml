@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lightpink">#e1bee7</color>
+    <color name="grey">#ededed</color>
+    <color name="white">#ffffff</color>
+    <color name="teal">#00796b</color>
+    <color name="teallight">#26a69a</color>
+    <color name="activatedTeal">#4db6ac</color>
+    <color name="teal200">#80cbc4</color>
+    <color name="teal100">#c2eae7</color>
+    <color name="lightergrey">#f3f3f3</color>
+    <color name="tipbackground">#d3d993</color>
+</resources>

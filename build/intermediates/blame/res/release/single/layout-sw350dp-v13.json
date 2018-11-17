@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\build\\intermediates\\res\\merged\\release\\layout-sw350dp-v13\\activity_home_page.xml",
+        "source": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\src\\main\\res\\layout-sw350dp\\activity_home_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\build\\intermediates\\res\\merged\\release\\layout-sw350dp-v13\\collated_list_main.xml",
+        "source": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\src\\main\\res\\layout-sw350dp\\collated_list_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\build\\intermediates\\res\\merged\\release\\layout-sw350dp-v13\\activity_profile.xml",
+        "source": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\src\\main\\res\\layout-sw350dp\\activity_profile.xml"
+    }
+]

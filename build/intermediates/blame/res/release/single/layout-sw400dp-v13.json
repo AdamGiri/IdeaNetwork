@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\build\\intermediates\\res\\merged\\release\\layout-sw400dp-v13\\bio_ro.xml",
+        "source": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\src\\main\\res\\layout-sw400dp\\bio_ro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\build\\intermediates\\res\\merged\\release\\layout-sw400dp-v13\\activity_main.xml",
+        "source": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\src\\main\\res\\layout-sw400dp\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\build\\intermediates\\res\\merged\\release\\layout-sw400dp-v13\\adapterlayout.xml",
+        "source": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\src\\main\\res\\layout-sw400dp\\adapterlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\build\\intermediates\\res\\merged\\release\\layout-sw400dp-v13\\activity_profile.xml",
+        "source": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\src\\main\\res\\layout-sw400dp\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\build\\intermediates\\res\\merged\\release\\layout-sw400dp-v13\\activity_home_page.xml",
+        "source": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\src\\main\\res\\layout-sw400dp\\activity_home_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\build\\intermediates\\res\\merged\\release\\layout-sw400dp-v13\\activity_idea_tree_library.xml",
+        "source": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\src\\main\\res\\layout-sw400dp\\activity_idea_tree_library.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\build\\intermediates\\res\\merged\\release\\layout-sw400dp-v13\\collated_idea.xml",
+        "source": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\src\\main\\res\\layout-sw400dp\\collated_idea.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\build\\intermediates\\res\\merged\\release\\layout-sw400dp-v13\\contact_details_ro.xml",
+        "source": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\src\\main\\res\\layout-sw400dp\\contact_details_ro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\build\\intermediates\\res\\merged\\release\\layout-sw400dp-v13\\bio.xml",
+        "source": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\src\\main\\res\\layout-sw400dp\\bio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\build\\intermediates\\res\\merged\\release\\layout-sw400dp-v13\\message_container_reply.xml",
+        "source": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\src\\main\\res\\layout-sw400dp\\message_container_reply.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\build\\intermediates\\res\\merged\\release\\layout-sw400dp-v13\\top_idea.xml",
+        "source": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\src\\main\\res\\layout-sw400dp\\top_idea.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\build\\intermediates\\res\\merged\\release\\layout-sw400dp-v13\\contact_details.xml",
+        "source": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\src\\main\\res\\layout-sw400dp\\contact_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\build\\intermediates\\res\\merged\\release\\layout-sw400dp-v13\\reply_layout.xml",
+        "source": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\src\\main\\res\\layout-sw400dp\\reply_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\build\\intermediates\\res\\merged\\release\\layout-sw400dp-v13\\sent_reply_layout.xml",
+        "source": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\src\\main\\res\\layout-sw400dp\\sent_reply_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\build\\intermediates\\res\\merged\\release\\layout-sw400dp-v13\\activity_profile_read_only.xml",
+        "source": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\src\\main\\res\\layout-sw400dp\\activity_profile_read_only.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\build\\intermediates\\res\\merged\\release\\layout-sw400dp-v13\\msg_container_redo.xml",
+        "source": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\src\\main\\res\\layout-sw400dp\\msg_container_redo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\build\\intermediates\\res\\merged\\release\\layout-sw400dp-v13\\collated_list_main.xml",
+        "source": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\src\\main\\res\\layout-sw400dp\\collated_list_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\build\\intermediates\\res\\merged\\release\\layout-sw400dp-v13\\activity_collated_lists.xml",
+        "source": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\src\\main\\res\\layout-sw400dp\\activity_collated_lists.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\build\\intermediates\\res\\merged\\release\\layout-sw400dp-v13\\mainidea.xml",
+        "source": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\src\\main\\res\\layout-sw400dp\\mainidea.xml"
+    }
+]

@@ -1,0 +1,294 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:9:1-97:12
+	package
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:10:5-36
+		INJECTED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:9:11-69
+	android:versionCode
+		INJECTED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:12:22-77
+application
+ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:14:5-95:19
+MERGED from [com.parse:Parse:1.15.8-SNAPSHOT] C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\Parse\build\intermediates\bundles\default\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Adam.Arbico-PC\.android\build-cache\18fc1234bc24150ad6e8fe9d67cb91503a374e4c\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Adam.Arbico-PC\.android\build-cache\4918ab0c77802a024f48245f2996de36882542ed\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Adam.Arbico-PC\.android\build-cache\32148a225691b48c11802cfb74973127e88dee5b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Adam.Arbico-PC\.android\build-cache\a939ed27fdbe8c90b894add3d7b6999bd1bc23b2\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Adam.Arbico-PC\.android\build-cache\f8db8b7bc610119443e7031a4ce68f3461f85431\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Adam.Arbico-PC\.android\build-cache\8258f4afbb0f564d3c01aa4839735e18edc46320\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.0] C:\Users\Adam.Arbico-PC\.android\build-cache\5c52aa450ed6976b18329d30ef3fe49346b23e96\output\AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.0] C:\Users\Adam.Arbico-PC\.android\build-cache\c9fbc833805b37f63c7fd7baa56d2fb4760b04d3\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.0] C:\Users\Adam.Arbico-PC\.android\build-cache\4c36dc3b411ca04f73eb261920fb1655332b1978\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.0] C:\Users\Adam.Arbico-PC\.android\build-cache\c30eebe061eea7171d4f5202e489eb682e1a7e0d\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\Adam.Arbico-PC\.android\build-cache\6a835c4893457253a1de7938f99baa4778a60f21\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] C:\Users\Adam.Arbico-PC\.android\build-cache\3c9cfe7004c87781ab8bef3d42dde88c02ec071c\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\Adam.Arbico-PC\.android\build-cache\1257a599b1af86603121a2ec227172051bd4e7b9\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Adam.Arbico-PC\.android\build-cache\a376e5742324adf7971c05d594dff351ee9b9f85\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Adam.Arbico-PC\.android\build-cache\780be0eac1937fb46b43a39f7f463346e8f0b423\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Adam.Arbico-PC\.android\build-cache\c675ca152d4c8620dbb85707966486a4258c7646\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Adam.Arbico-PC\.android\build-cache\a627f83f91b3b9165b5d8f29d0bb92f5ca4ea57c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Adam.Arbico-PC\.android\build-cache\48e891da055ada37e694a2aa6eaea67cbc1b4906\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Adam.Arbico-PC\.android\build-cache\4ff530f6083f2616a3eb97aca86ed8131fa37442\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:18:9-36
+	android:allowBackup
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:16:9-36
+	android:icon
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:17:9-39
+	android:theme
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:19:9-40
+	android:name
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:15:9-43
+meta-data#com.parse.SERVER_URL
+ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:21:9-23:56
+	android:value
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:23:13-53
+	android:name
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:22:13-48
+meta-data#com.parse.APPLICATION_ID
+ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:24:9-26:52
+	android:value
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:26:13-49
+	android:name
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:25:13-52
+meta-data#com.parse.CLIENT_KEY
+ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:27:9-29:56
+	android:value
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:29:13-53
+	android:name
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:28:13-48
+activity#com.parse.ideanetwork.MainActivity
+ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:31:9-41:20
+	android:screenOrientation
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:33:13-49
+	android:label
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:34:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:35:13-52
+	android:name
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:32:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:39:27-74
+activity#com.parse.ideanetwork.IdeaTreeActivity
+ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:42:9-45:55
+	android:screenOrientation
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:44:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:45:13-52
+	android:name
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:43:13-45
+activity#com.parse.ideanetwork.IdeaTreeLibraryActivity
+ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:46:9-47:51
+	android:screenOrientation
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:47:13-49
+	android:name
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:46:19-58
+activity#com.parse.ideanetwork.NetworkActivity
+ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:48:9-53
+	android:name
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:48:19-50
+service#com.parse.PushService
+ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:50:9-57
+	android:name
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:50:18-54
+receiver#com.parse.ideanetwork.PushNotifications.CustomPushReceiver
+ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:52:9-62:20
+	android:exported
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:54:13-37
+	android:name
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:53:13-65
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.USER_PRESENT+com.parse.push.intent.DELETE+com.parse.push.intent.OPEN+com.parse.push.intent.RECEIVE
+ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:55:13-61:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:56:17-79
+	android:name
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:56:25-76
+action#android.intent.action.USER_PRESENT
+ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:57:17-77
+	android:name
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:57:25-74
+action#com.parse.push.intent.RECEIVE
+ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:58:17-72
+	android:name
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:58:25-69
+action#com.parse.push.intent.DELETE
+ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:59:17-71
+	android:name
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:59:25-68
+action#com.parse.push.intent.OPEN
+ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:60:17-69
+	android:name
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:60:25-66
+receiver#com.parse.GcmBroadcastReceiver
+ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:63:9-72:20
+	android:permission
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:65:13-73
+	android:name
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:64:13-58
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION+com.parse.ideanetwork
+ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:66:13-71:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:67:17-81
+	android:name
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:67:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:68:17-86
+	android:name
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:68:25-83
+category#com.parse.ideanetwork
+ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:70:17-66
+	android:name
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:70:27-63
+activity#com.parse.ideanetwork.HomePageActivity
+ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:74:9-75:51
+	android:screenOrientation
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:75:13-49
+	android:name
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:74:19-51
+activity#com.parse.ideanetwork.CollateActivity
+ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:76:9-77:51
+	android:screenOrientation
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:77:13-49
+	android:name
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:76:19-50
+activity#com.parse.ideanetwork.Collation.CollatedListsActivity
+ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:78:9-79:51
+	android:screenOrientation
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:79:13-49
+	android:name
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:78:19-66
+activity#com.parse.ideanetwork.ProfileActivity
+ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:80:9-83:51
+	android:screenOrientation
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:83:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:82:13-52
+	android:name
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:81:13-44
+activity#com.parse.ideanetwork.ProfileReadOnlyActivity
+ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:84:9-85:51
+	android:screenOrientation
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:85:13-49
+	android:name
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:84:19-58
+activity#com.parse.ideanetwork.ProfileChatActivity
+ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:86:9-87:51
+	android:screenOrientation
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:87:13-49
+	android:name
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:86:19-54
+activity#com.parse.ideanetwork.SearchActivity
+ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:88:9-90:54
+	android:screenOrientation
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:89:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:90:13-52
+	android:name
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:88:19-49
+activity#com.parse.ideanetwork.SearchResultsActivity
+ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:91:9-94:54
+	android:screenOrientation
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:93:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:94:13-52
+	android:name
+		ADDED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml:92:13-50
+uses-sdk
+INJECTED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.parse:Parse:1.15.8-SNAPSHOT] C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\Parse\build\intermediates\bundles\default\AndroidManifest.xml:15:5-17:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Adam.Arbico-PC\.android\build-cache\18fc1234bc24150ad6e8fe9d67cb91503a374e4c\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\Adam.Arbico-PC\.android\build-cache\4918ab0c77802a024f48245f2996de36882542ed\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Adam.Arbico-PC\.android\build-cache\32148a225691b48c11802cfb74973127e88dee5b\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Adam.Arbico-PC\.android\build-cache\a939ed27fdbe8c90b894add3d7b6999bd1bc23b2\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Adam.Arbico-PC\.android\build-cache\f8db8b7bc610119443e7031a4ce68f3461f85431\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Adam.Arbico-PC\.android\build-cache\8f5c33418daa211b40a9a885d97f1f688c69d745\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Adam.Arbico-PC\.android\build-cache\8258f4afbb0f564d3c01aa4839735e18edc46320\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:11.0.0] C:\Users\Adam.Arbico-PC\.android\build-cache\0cd50acda864ae35dd91699b5ed5ad45cd93e95b\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.0] C:\Users\Adam.Arbico-PC\.android\build-cache\5c52aa450ed6976b18329d30ef3fe49346b23e96\output\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.0] C:\Users\Adam.Arbico-PC\.android\build-cache\c9fbc833805b37f63c7fd7baa56d2fb4760b04d3\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.0] C:\Users\Adam.Arbico-PC\.android\build-cache\4c36dc3b411ca04f73eb261920fb1655332b1978\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.0] C:\Users\Adam.Arbico-PC\.android\build-cache\c30eebe061eea7171d4f5202e489eb682e1a7e0d\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\Adam.Arbico-PC\.android\build-cache\6a835c4893457253a1de7938f99baa4778a60f21\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] C:\Users\Adam.Arbico-PC\.android\build-cache\3c9cfe7004c87781ab8bef3d42dde88c02ec071c\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\Adam.Arbico-PC\.android\build-cache\1257a599b1af86603121a2ec227172051bd4e7b9\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Adam.Arbico-PC\.android\build-cache\a376e5742324adf7971c05d594dff351ee9b9f85\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Adam.Arbico-PC\.android\build-cache\780be0eac1937fb46b43a39f7f463346e8f0b423\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Adam.Arbico-PC\.android\build-cache\c675ca152d4c8620dbb85707966486a4258c7646\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Adam.Arbico-PC\.android\build-cache\a627f83f91b3b9165b5d8f29d0bb92f5ca4ea57c\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Adam.Arbico-PC\.android\build-cache\48e891da055ada37e694a2aa6eaea67cbc1b4906\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Adam.Arbico-PC\.android\build-cache\4ff530f6083f2616a3eb97aca86ed8131fa37442\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Adam.Arbico-PC\.android\build-cache\4918ab0c77802a024f48245f2996de36882542ed\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\ParseStarterProject\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.parse:Parse:1.15.8-SNAPSHOT] C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\Parse\build\intermediates\bundles\default\AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.0] C:\Users\Adam.Arbico-PC\.android\build-cache\5c52aa450ed6976b18329d30ef3fe49346b23e96\output\AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from [com.parse:Parse:1.15.8-SNAPSHOT] C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\Parse\build\intermediates\bundles\default\AndroidManifest.xml:19:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.parse:Parse:1.15.8-SNAPSHOT] C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\Parse\build\intermediates\bundles\default\AndroidManifest.xml:20:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.0] C:\Users\Adam.Arbico-PC\.android\build-cache\5c52aa450ed6976b18329d30ef3fe49346b23e96\output\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from [com.parse:Parse:1.15.8-SNAPSHOT] C:\Users\Adam.Arbico-PC\Desktop\ideaShare\Parse-SDK-Android-master\Parse-SDK-Android-master\Parse\build\intermediates\bundles\default\AndroidManifest.xml:20:22-76
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Adam.Arbico-PC\.android\build-cache\4918ab0c77802a024f48245f2996de36882542ed\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Adam.Arbico-PC\.android\build-cache\32148a225691b48c11802cfb74973127e88dee5b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Adam.Arbico-PC\.android\build-cache\a939ed27fdbe8c90b894add3d7b6999bd1bc23b2\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Adam.Arbico-PC\.android\build-cache\f8db8b7bc610119443e7031a4ce68f3461f85431\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Adam.Arbico-PC\.android\build-cache\8f5c33418daa211b40a9a885d97f1f688c69d745\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Adam.Arbico-PC\.android\build-cache\8258f4afbb0f564d3c01aa4839735e18edc46320\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Adam.Arbico-PC\.android\build-cache\a376e5742324adf7971c05d594dff351ee9b9f85\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Adam.Arbico-PC\.android\build-cache\780be0eac1937fb46b43a39f7f463346e8f0b423\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Adam.Arbico-PC\.android\build-cache\c675ca152d4c8620dbb85707966486a4258c7646\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Adam.Arbico-PC\.android\build-cache\a627f83f91b3b9165b5d8f29d0bb92f5ca4ea57c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Adam.Arbico-PC\.android\build-cache\48e891da055ada37e694a2aa6eaea67cbc1b4906\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Adam.Arbico-PC\.android\build-cache\4ff530f6083f2616a3eb97aca86ed8131fa37442\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Adam.Arbico-PC\.android\build-cache\4918ab0c77802a024f48245f2996de36882542ed\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Adam.Arbico-PC\.android\build-cache\4918ab0c77802a024f48245f2996de36882542ed\output\AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.0] C:\Users\Adam.Arbico-PC\.android\build-cache\5c52aa450ed6976b18329d30ef3fe49346b23e96\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.0] C:\Users\Adam.Arbico-PC\.android\build-cache\5c52aa450ed6976b18329d30ef3fe49346b23e96\output\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.0] C:\Users\Adam.Arbico-PC\.android\build-cache\5c52aa450ed6976b18329d30ef3fe49346b23e96\output\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.0] C:\Users\Adam.Arbico-PC\.android\build-cache\5c52aa450ed6976b18329d30ef3fe49346b23e96\output\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\Adam.Arbico-PC\.android\build-cache\6a835c4893457253a1de7938f99baa4778a60f21\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\Adam.Arbico-PC\.android\build-cache\6a835c4893457253a1de7938f99baa4778a60f21\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\Adam.Arbico-PC\.android\build-cache\6a835c4893457253a1de7938f99baa4778a60f21\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\Adam.Arbico-PC\.android\build-cache\6a835c4893457253a1de7938f99baa4778a60f21\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\Adam.Arbico-PC\.android\build-cache\1257a599b1af86603121a2ec227172051bd4e7b9\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\Adam.Arbico-PC\.android\build-cache\1257a599b1af86603121a2ec227172051bd4e7b9\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\Adam.Arbico-PC\.android\build-cache\1257a599b1af86603121a2ec227172051bd4e7b9\output\AndroidManifest.xml:20:20-65

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+
+    <EditText
+        android:id="@+id/bioText"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="32dp"
+        android:background="@color/teal100"
+        android:elevation="4dp"
+        android:gravity="top|left"
+        android:hint="Write something about yourself..."
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/bioSave"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/ic_save"
+        android:elevation="8dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:onClick="bioSaveOnClick"
+        android:visibility="invisible"
+        android:layout_alignTop="@+id/bioText"
+        android:layout_alignRight="@+id/bioText"
+        android:layout_alignEnd="@+id/bioText" />
+    <ImageView
+        android:id="@+id/imageView12"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:alpha="0.3"
+        android:elevation="8dp"
+        app:srcCompat="@drawable/ic_pencil_edit_button"
+        android:layout_below="@+id/bioSave"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="90dp" />
+
+
+</RelativeLayout>

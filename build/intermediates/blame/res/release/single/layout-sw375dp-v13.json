@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\build\\intermediates\\res\\merged\\release\\layout-sw375dp-v13\\msg_container_redo.xml",
+        "source": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\src\\main\\res\\layout-sw375dp\\msg_container_redo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\build\\intermediates\\res\\merged\\release\\layout-sw375dp-v13\\sent_reply_layout.xml",
+        "source": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\src\\main\\res\\layout-sw375dp\\sent_reply_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\build\\intermediates\\res\\merged\\release\\layout-sw375dp-v13\\activity_profile.xml",
+        "source": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\src\\main\\res\\layout-sw375dp\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\build\\intermediates\\res\\merged\\release\\layout-sw375dp-v13\\activity_idea_tree_library.xml",
+        "source": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\src\\main\\res\\layout-sw375dp\\activity_idea_tree_library.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\build\\intermediates\\res\\merged\\release\\layout-sw375dp-v13\\message_container_reply.xml",
+        "source": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\src\\main\\res\\layout-sw375dp\\message_container_reply.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\build\\intermediates\\res\\merged\\release\\layout-sw375dp-v13\\collated_idea.xml",
+        "source": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\src\\main\\res\\layout-sw375dp\\collated_idea.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\build\\intermediates\\res\\merged\\release\\layout-sw375dp-v13\\activity_profile_read_only.xml",
+        "source": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\src\\main\\res\\layout-sw375dp\\activity_profile_read_only.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\build\\intermediates\\res\\merged\\release\\layout-sw375dp-v13\\mainidea.xml",
+        "source": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\src\\main\\res\\layout-sw375dp\\mainidea.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\build\\intermediates\\res\\merged\\release\\layout-sw375dp-v13\\reply_layout.xml",
+        "source": "C:\\Users\\Adam.Arbico-PC\\Desktop\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\src\\main\\res\\layout-sw375dp\\reply_layout.xml"
+    }
+]

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/grey"
+    tools:context="com.parse.ideanetwork.SearchResultsActivity">
+
+
+    <RelativeLayout
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/teallight"
+        android:elevation="5dp">
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="25dp"
+            android:layout_height="30dp"
+            android:layout_alignBaseline="@+id/searchView"
+            android:layout_alignBottom="@+id/searchView"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginEnd="17dp"
+            android:layout_marginRight="17dp"
+            android:background="@drawable/ic_search"
+            android:gravity="bottom"
+            android:onClick="searchBarOnClick"
+            android:paddingRight="5dp" />
+
+        <Spinner
+            android:id="@+id/filterOptions"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/reset"
+            android:layout_alignBottom="@+id/reset"
+            android:layout_alignEnd="@+id/textView6"
+            android:layout_alignRight="@+id/textView6"
+            android:layout_marginEnd="13dp"
+            android:layout_marginRight="13dp" />" />
+
+        <TextView
+            android:id="@+id/reset"
+            android:layout_width="52dp"
+            android:layout_height="23dp"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="51dp"
+            android:gravity="center"
+            android:onClick="resetOnClick"
+            android:text="Reset"
+            android:textColor="@color/white"
+            android:textSize="12sp" />
+
+        <EditText
+            android:id="@+id/searchView"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_alignLeft="@+id/reset"
+            android:layout_alignStart="@+id/reset"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="50dp"
+            android:layout_marginTop="8dp"
+            android:background="@color/teal200"
+            android:imeOptions="actionSearch"
+            android:paddingBottom="5dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp"
+            android:textSize="12sp" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/noIdeasMsg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:text="No mindmaps are available."
+        android:visibility="invisible" />
+
+    <GridView
+        android:id="@+id/searchResultsGridView"
+        android:layout_width="match_parent"
+        android:layout_height="470dp"
+        android:layout_below="@+id/container"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/grey"
+        android:columnWidth="145dp"
+        android:gravity="center"
+        android:horizontalSpacing="10dp"
+        android:numColumns="auto_fit"
+        android:paddingEnd="5dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingStart="5dp"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="10dp" />
+
+
+</RelativeLayout>

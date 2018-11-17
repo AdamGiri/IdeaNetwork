@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/homePgBackground"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/grey"
+    tools:context="com.parse.ideanetwork.HomePageActivity">
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="@android:color/transparent"
+        android:elevation="1dp"
+        android:paddingBottom="5dp">
+
+        <TextView
+            android:id="@+id/topTrendingIdeas"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="21dp"
+            android:layout_marginStart="21dp"
+            android:layout_marginTop="12dp"
+            android:text="Top Trending Ideas"
+            android:textSize="12sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/dropDown"
+            android:layout_width="10dp"
+            android:layout_height="15dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/display"
+            android:layout_marginRight="25dp"
+            android:layout_marginTop="2dp"
+            android:background="@drawable/ic_drop_down_arrow_black"
+            android:gravity="bottom"
+            android:onClick="dropDownOnClick" />
+
+        <TextView
+            android:id="@+id/display"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:onClick="dropDownOnClick"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/topTrendingIdeas"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="38dp"
+            android:layout_marginRight="38dp"
+            android:paddingLeft="5dp"
+            android:text="All"
+            android:textSize="12sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout4"
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="@color/teallight"
+        android:elevation="10dp">
+
+        <GridLayout
+            android:id="@+id/gridLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+
+            android:layout_centerHorizontal="true"
+            android:background="@color/teallight"
+            android:clipToPadding="false"
+            android:gravity="center"
+            android:paddingBottom="2dp"
+            android:paddingEnd="2dp"
+            android:paddingStart="2dp"
+            android:paddingTop="20dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.258">
+
+
+            <TextView
+                android:id="@+id/searchTag"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="2"
+                android:layout_marginLeft="10dp"
+                android:layout_row="1"
+                android:paddingTop="5dp"
+                android:text="    Search \n MindMaps"
+                android:textColor="@color/white"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/profileTag"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="1"
+                android:layout_marginLeft="15dp"
+                android:layout_row="1"
+                android:paddingTop="5dp"
+                android:text="Profile"
+                android:textColor="@color/white"
+                android:textSize="12sp" />
+
+            <Button
+                android:id="@+id/library"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+
+                android:layout_alignBaseline="@+id/search"
+                android:layout_alignBottom="@+id/search"
+                android:layout_column="0"
+                android:layout_marginEnd="24dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="50dp"
+                android:layout_row="0"
+                android:layout_toLeftOf="@+id/profile"
+                android:layout_toStartOf="@+id/profile"
+                android:background="@drawable/ic_idea_library"
+                android:elevation="10dp"
+                android:onClick="libraryOnClick"
+                android:textAllCaps="false" />
+
+            <Button
+                android:id="@+id/profile"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_alignBaseline="@+id/search"
+                android:layout_alignBottom="@+id/search"
+                android:layout_column="1"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="50dp"
+                android:layout_row="0"
+                android:layout_toLeftOf="@+id/search"
+                android:layout_toStartOf="@+id/search"
+                android:background="@drawable/ic_profile_pic"
+
+                android:elevation="10dp"
+                android:onClick="profileOnClick"
+                android:textAllCaps="false" />
+
+            <Button
+                android:id="@+id/search"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_column="2"
+                android:layout_marginLeft="10dp"
+                android:layout_row="0"
+                android:background="@drawable/ic_search"
+                android:elevation="10dp"
+                android:onClick="searchOnClick"
+                android:textAllCaps="false" />
+
+            <TextView
+                android:id="@+id/libTag"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="0"
+                android:layout_row="1"
+                android:paddingTop="5dp"
+                android:text="Create/Store \n  MindMaps"
+                android:textColor="@color/white"
+                android:textSize="12sp" />
+
+
+        </GridLayout>
+    </RelativeLayout>
+
+
+    <GridView
+        android:id="@+id/gridView"
+        android:layout_width="match_parent"
+        android:layout_height="360dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/relativeLayout5"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="5dp"
+        android:background="@color/grey"
+        android:columnWidth="60dp"
+        android:gravity="center"
+        android:horizontalSpacing="10dp"
+        android:numColumns="2"
+        android:stretchMode="columnWidth" />
+
+
+    <TextView
+        android:id="@+id/noIdeasMsg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+
+        android:layout_marginBottom="100dp"
+
+        android:layout_marginTop="250dp"
+        android:text="No mindmaps are currently available."
+        android:visibility="visible" />
+
+    <ListView
+        android:id="@+id/dropDownList"
+        android:layout_width="162dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="34dp"
+        android:layout_marginRight="45dp"
+
+        android:layout_marginTop="21dp"
+        android:background="@android:color/background_light"
+        android:elevation="10dp"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.886"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+</RelativeLayout>
