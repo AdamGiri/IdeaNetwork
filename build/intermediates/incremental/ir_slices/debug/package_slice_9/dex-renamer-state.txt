@@ -1,0 +1,4 @@
+#Mon Nov 19 16:24:00 GMT 2018
+base.0=C\:\\Users\\Adam\\Documents\\ideaShare\\Parse-SDK-Android-master\\Parse-SDK-Android-master\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
